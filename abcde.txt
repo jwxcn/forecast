@@ -1,4 +1,2 @@
 abcdefg
 hijklmn
-opqrst
-uvwxyz
